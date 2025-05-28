@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+# My To-Do App
 # To-Do Application
 
 This is a simple To-Do application built using HTML, CSS, PHP, and JavaScript. The application allows users to add and delete tasks for managing daily activities.
